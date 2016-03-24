@@ -1,0 +1,21 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "App de Streaming con webrct",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "Streaming"
+  ],
+  "author": "Alejandro Rivas <jarlalejor@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "socket.io": "^1.4.5"
+  }
+}

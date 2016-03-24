@@ -1,0 +1,31 @@
+body{
+	font-size: 16px;
+	background: #eee;
+	margin: 0;
+	padding: 0;
+}
+
+/* Video Stream */
+#video-stream{
+	border: 10px solid #5C5F5C;
+  border-radius: 12px;
+}
+.name-app{
+	text-align: center;
+}
+
+.wrap-video{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+/* Live Stream */
+.stream-title{
+	text-align: center;
+}
+
+.wrap-stream{
+	display: flex;
+	justify-content: center;
+}
